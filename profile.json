@@ -1,0 +1,20 @@
+ {
+    "id": "100001404054986",
+    "name": "Prabhat Ranjan Verma",
+    "picture": {
+      "data": {
+        "height": 100,
+        "is_silhouette": false,
+        "url": "https://scontent.xx.fbcdn.net/v/t1.0-1/p50x50/29356369_1810042372385880_7245543672970739712_n.jpg?_nc_cat=0&oh=49c85f1b747396213d4562ee9b9c0db7&oe=5B420761",
+        "width": 100
+      }
+    },
+    "cover": {
+      "id": "1782834838439967",
+      "offset_x": 0,
+      "offset_y": 63,
+      "source": "https://scontent.xx.fbcdn.net/v/t31.0-0/p480x480/28161709_1782834838439967_5494492740780597646_o.jpg?_nc_cat=0&oh=176827faa866b6c67deb39a526df32a1&oe=5B3005E9"
+    },
+    "birthday": "11/02/1990",
+    "email": "ranjanvermaprabhat@gmail.com"
+  }
